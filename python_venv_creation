@@ -1,0 +1,6 @@
+1.install venv to your host Python by running this command in your terminal:<br/>
+pip install virtualenv<br/>
+2.go to the project folder and run terminal with the following:<br/>
+py -m venv work_venv(name of the venv)<br/>
+3.in working forlder, run the following command in terminal:<br/>
+.\\work_venv(name of the venv)\Scripts\activate.bat 
