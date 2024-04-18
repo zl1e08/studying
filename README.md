@@ -1,1 +1,1 @@
-This repo is used to take some note for studying
+This repo is used to take some notes for studying
